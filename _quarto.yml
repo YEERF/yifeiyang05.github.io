@@ -7,12 +7,12 @@ website:
   title: "Yifei Yang"
   site-url: https://yifeiyang05.github.io
   favicon: images/site_logo.png
-  repo-url: https://github.com/YEERF/yifeiyang05.github.io
+  repo-url: https://yeerf.github.io/YEERF/yifeiyang05.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      © 2025 Yifei Yang
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -25,7 +25,7 @@ website:
       - text: "Publications"
         href: publications.qmd
       - text: "CV"
-        href: cv.pdf
+        href: CV.pdf
 
 format:
   html:
