@@ -1,6 +1,6 @@
 ---
 title: "Yifei Yang"
-image: images/lianyujun_2025.png
+image: images/bio_photo.jpg
 about:
   id: hero-heading
   template: trestles
@@ -8,20 +8,11 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: yifei05.yang@gmail.com
+      text: Email
       href: mailto:yifei05.yang@gmail.com
     - icon: github
       text: YEERF
       href: https://github.com/YEERF
-    - icon: book
-      text: Google Scholar
-      href: 
-    - icon: fingerprint
-      text: ORCID
-      href: 
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
     - icon: 📝
       text: CV
       href: CV.pdf  
