@@ -22,7 +22,7 @@ editor:
 ### Project Leader, Undergraduate Innovation Project, Beijing Jiaotong University
 *May 2024 - May 2025*  
 Advisor: Prof. Hang Zhou (Associate Professor, School of Electronic and Information Engineering, Beijing Jiaotong University)  
-#### A Low- and High-Frequency Fusion Framework for Anti-UAV Detection and Tracking 3333  
+#### A Low- and High-Frequency Fusion Framework for Anti-UAV Detection and Tracking  
 - Proposed a low-high frequency fusion framework for anti-UAV detection and tracking
   in low-light and dynamic-background scenarios.  
 - Designed the Decoupling Light and Reconstructing (DLR) module to disentangle illumination cues
@@ -52,7 +52,7 @@ Advisor: Prof. Yan Wang (Assistant Professor, Institute for AI Industry Research
 
 ### Algorithm Intern, Wuxi Research Institute of Applied Technologies, Tsinghua University
 *Jul 2025 - Aug 2025*  
-#### VLA and World Models for Robot Manipulation and Navigation ####  
+#### VLA and World Models for Robot Manipulation and Navigation  
 - Integrated a robotic arm and multi-sensor stack (camera, force and torque) in ROS2,
   and debugged end-to-end communication for stable runtime operation.  
 - Implemented model-to-control interfaces for VLA models (π0-series and world-model inference),
