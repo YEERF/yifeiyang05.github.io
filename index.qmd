@@ -15,7 +15,7 @@ about:
       href: https://github.com/YEERF
     - icon: 📝
       text: CV
-      href: CV.pdf  
+      href: https://github.com/YEERF/yifeiyang05.github.io/blob/main/CV.pdf
 ---
 
 ::: {#hero-heading}
